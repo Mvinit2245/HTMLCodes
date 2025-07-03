@@ -1,0 +1,17 @@
+
+h1{
+    color:red;
+}
+
+h1.offset{
+    color:aqua
+
+}
+
+.offset{
+    margin: 3rem;
+outline-offset: 10px;
+outline-style: solid;
+outline-color: green;
+border-style: solid;
+}
